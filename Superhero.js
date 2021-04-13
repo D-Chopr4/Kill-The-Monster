@@ -1,4 +1,4 @@
-class man {
+class Superman {
     constructor(x,y,width,height){
         var options = { restitution: 3              
         }
